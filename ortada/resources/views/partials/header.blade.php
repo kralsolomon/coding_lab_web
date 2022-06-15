@@ -1,5 +1,5 @@
 <section id="header">
-    <a href="#"><img src="img/logo.svg" width="60px" class="logo" alt=""></a>
+    <a href="#"><img src="img/logo.svg" width="50px" class="logo" alt=""></a>
     <div>
         <ul id="navbar">
             <li><a href="/home">Home</a></li>

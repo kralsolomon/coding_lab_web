@@ -1,5 +1,5 @@
 @extends('layouts.layout')
-@section('title') Home @endsection
+@section('title') About @endsection
 @section('main_content')
 
 
@@ -13,7 +13,7 @@
 
 
     <section id="about-head" class="section-p1">
-        <img src="img/a6.jpg">
+        <img src="img/b19.jpg">
         <div>
             <h2>Who We Are?</h2>
             <p>Ortada, a project on a creative basis for future business. We will be engaged in marketing and we want to become an independent brand in the Kazakhstan market..</p>

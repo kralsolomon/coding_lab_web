@@ -24,15 +24,62 @@
         <h4 style="font-size: 1.17em; color: white; font-weight: bold;"> It's easier with us</h4>
 
         <div class="image">
-            <a href="events.html"><img src="img/events.jpg" alt=""></a>
-            <a href="#"><span>Participate in events</span></a>
+            <a href="/events"><img src="img/events.jpg" alt=""></a>
+            <a href="/events"><span>Participate in events</span></a>
         </div>
 
         <div class="image">
-            <a href="#"><img src="img/create.jpg" alt=""></a>
-            <a href="#"><span>Publish your events</span></a>
+            <a href="/signup"><img src="img/create.jpg" alt=""></a>
+            <a href="/signup"><span>Publish your events</span></a>
         </div>
     </div>
+
+    <div class="wrapper1">
+        <div class="single-price">
+            <h1>Military police</h1>
+            <div class="price">
+                <h2>$5</h2>
+            </div>
+            <div class="deals">
+                <h4>1 post</h4>
+                <!--             <h4>lorem ipsum dolor</h4>
+                            <h4>lorem ipsum dolor</h4>
+                            <h4>lorem ipsum dolor</h4>
+                            <h4>lorem ipsum dolor</h4> -->
+            </div>
+            <a href="#">select</a>
+        </div>
+        <div class="single-price">
+            <h1>Garrison</h1>
+            <div class="price">
+                <h2>$10</h2>
+            </div>
+            <div class="deals">
+                <h4>3 posts</h4>
+                <!--             <h4>lorem ipsum dolor</h4>
+                            <h4>lorem ipsum dolor</h4>
+                            <h4>lorem ipsum dolor</h4>
+                            <h4>lorem ipsum dolor</h4> -->
+            </div>
+            <a href="#">select</a>
+        </div>
+        <div class="single-price">
+            <h1>Intelligence corps</h1>
+            <div class="price">
+                <h2>$25</h2>
+            </div>
+            <div class="deals">
+                <h4>10 posts</h4>
+                <!--             <h4>lorem ipsum dolor</h4>
+                            <h4>lorem ipsum dolor</h4>
+                            <h4>lorem ipsum dolor</h4>
+                            <h4>lorem ipsum dolor</h4> -->
+            </div>
+            <a href="#">select</a>
+        </div>
+    </div>
+
+
 
 
 @endsection

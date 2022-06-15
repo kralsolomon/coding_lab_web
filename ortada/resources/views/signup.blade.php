@@ -1,5 +1,5 @@
 @extends('layouts.layout')
-@section('title') Sign In @endsection
+@section('title') Sign Up @endsection
 @section('main_content')
     <body style="
     background: #1abc9c;

@@ -56,11 +56,6 @@ class MainController extends Controller
         return redirect()->route('event-view');
     }
 
-
-
-
-
-
     public function eventdestroy($id)
     {
         $event = Event::find($id);
